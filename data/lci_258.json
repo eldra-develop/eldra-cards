@@ -1,6 +1,6 @@
 {
   "id": "lci_258",
-  "ja_name": "??????",
+  "ja_name": "うろつく玉座",
   "en_name": "Roaming Throne",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/lci_258.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/lci_258_ja.jpg",
@@ -8,6 +8,7 @@
   "colors": [
     ""
   ],
-  "card_type": "Artifact Creature ? Golem",
-  "updated_at": "2025-06-01T14:25:43.780Z"
+  "card_type": "Artifact Creature — Golem",
+  "updated_at": "2025-06-01T15:13:48.252Z",
+  "is_double_faced": false
 }
