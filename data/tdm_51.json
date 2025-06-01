@@ -1,0 +1,13 @@
+{
+  "id": "tdm_51",
+  "ja_name": "Marang River Regent",
+  "en_name": "Marang River Regent",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_51.jpg",
+  "ja_image_url": "",
+  "mana_cost": "{4}{U}{U} // {3}{U}",
+  "colors": [
+    "U"
+  ],
+  "card_type": "Creature ? Dragon // Instant ? Omen",
+  "updated_at": "2025-06-01T14:25:41.545Z"
+}
