@@ -1,6 +1,6 @@
 {
   "id": "mh3_224",
-  "ja_name": "????????",
+  "ja_name": "汚染された三角州",
   "en_name": "Polluted Delta",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_224.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_224_ja.jpg",
@@ -9,5 +9,6 @@
     ""
   ],
   "card_type": "Land",
-  "updated_at": "2025-06-01T14:24:15.743Z"
+  "updated_at": "2025-06-01T15:12:12.541Z",
+  "is_double_faced": false
 }
