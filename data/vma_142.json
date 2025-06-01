@@ -1,0 +1,13 @@
+{
+  "id": "vma_142",
+  "ja_name": "?????",
+  "en_name": "Tendrils of Agony",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_142.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_142_ja.jpg",
+  "mana_cost": "{2}{B}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:24:19.035Z"
+}
