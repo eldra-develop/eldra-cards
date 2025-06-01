@@ -1,0 +1,13 @@
+{
+  "id": "tdc_147",
+  "ja_name": "??",
+  "en_name": "Compulsive Research",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_147.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_147_ja.jpg",
+  "mana_cost": "{2}{U}",
+  "colors": [
+    "U"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:24:42.037Z"
+}
