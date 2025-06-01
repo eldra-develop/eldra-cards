@@ -1,0 +1,13 @@
+{
+  "id": "fdn_617",
+  "ja_name": "?????????",
+  "en_name": "Wishclaw Talisman",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_617.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_617_ja.jpg",
+  "mana_cost": "{1}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Artifact",
+  "updated_at": "2025-06-01T14:24:45.056Z"
+}
