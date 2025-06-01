@@ -8,6 +8,7 @@
   "colors": [
     "U"
   ],
-  "card_type": "Creature ? Dragon // Instant ? Omen",
-  "updated_at": "2025-06-01T14:25:41.545Z"
+  "card_type": "Creature — Dragon // Instant — Omen",
+  "updated_at": "2025-06-01T15:13:47.035Z",
+  "is_double_faced": false
 }
