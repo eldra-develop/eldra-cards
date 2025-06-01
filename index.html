@@ -1,0 +1,433 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTG?????????</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .cards-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .card {
+      background-color: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      transition: transform 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+    }
+    .card-info {
+      padding: 15px;
+    }
+    .card-info h3 {
+      margin-top: 0;
+      color: #333;
+    }
+    .card-info p {
+      color: #666;
+      margin: 5px 0;
+    }
+    .card-info a {
+      display: inline-block;
+      margin-top: 10px;
+      color: #4285F4;
+      text-decoration: none;
+    }
+    .card-info a:hover {
+      text-decoration: underline;
+    }
+    .footer {
+      margin-top: 40px;
+      text-align: center;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <h1>MTG?????????</h1>
+  <p>??????MTG????????????????? 32 ???????????????</p>
+  
+  <div class="cards-container">
+    
+      <div class="card">
+        <img src="images/cards/cn2_152.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Burning Wish</p>
+          <p>?????: {1}{R}</p>
+          <p>???: Sorcery</p>
+          <a href="data/cn2_152.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/tpr_225.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Lotus Petal</p>
+          <p>?????: {0}</p>
+          <p>???: Artifact</p>
+          <a href="data/tpr_225.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mh3_224.jpg" alt="????????">
+        <div class="card-info">
+          <h3>????????</h3>
+          <p>Polluted Delta</p>
+          <p>?????: </p>
+          <p>???: Land</p>
+          <a href="data/mh3_224.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_142.jpg" alt="?????">
+        <div class="card-info">
+          <h3>?????</h3>
+          <p>Tendrils of Agony</p>
+          <p>?????: {2}{B}{B}</p>
+          <p>???: Sorcery</p>
+          <a href="data/vma_142.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/2xm_109.jpg" alt="????">
+        <div class="card-info">
+          <h3>????</h3>
+          <p>Thoughtseize</p>
+          <p>?????: {B}</p>
+          <p>???: Sorcery</p>
+          <a href="data/2xm_109.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/rvr_78.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Infernal Tutor</p>
+          <p>?????: {1}{B}</p>
+          <p>???: Sorcery</p>
+          <a href="data/rvr_78.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_106.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Cabal Ritual</p>
+          <p>?????: {1}{B}</p>
+          <p>???: Instant</p>
+          <a href="data/vma_106.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/a25_82.jpg" alt="?????">
+        <div class="card-info">
+          <h3>?????</h3>
+          <p>Dark Ritual</p>
+          <p>?????: {B}</p>
+          <p>???: Instant</p>
+          <a href="data/a25_82.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/znr_91.jpg" alt="?">
+        <div class="card-info">
+          <h3>?</h3>
+          <p>Blackbloom Rogue // Blackbloom Bog</p>
+          <p>?????: </p>
+          <p>???: Creature ? Human Rogue // Land</p>
+          <a href="data/znr_91.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_271.jpg" alt="?????????????">
+        <div class="card-info">
+          <h3>?????????????</h3>
+          <p>Lion's Eye Diamond</p>
+          <p>?????: {0}</p>
+          <p>???: Artifact</p>
+          <a href="data/vma_271.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/tdc_147.jpg" alt="??">
+        <div class="card-info">
+          <h3>??</h3>
+          <p>Compulsive Research</p>
+          <p>?????: {2}{U}</p>
+          <p>???: Sorcery</p>
+          <a href="data/tdc_147.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/fdn_617.jpg" alt="?????????">
+        <div class="card-info">
+          <h3>?????????</h3>
+          <p>Wishclaw Talisman</p>
+          <p>?????: {1}{B}</p>
+          <p>???: Artifact</p>
+          <a href="data/fdn_617.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/2xm_76.jpg" alt="????">
+        <div class="card-info">
+          <h3>????</h3>
+          <p>Ad Nauseam</p>
+          <p>?????: {3}{B}{B}</p>
+          <p>???: Instant</p>
+          <a href="data/2xm_76.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/tdc_159.jpg" alt="??">
+        <div class="card-info">
+          <h3>??</h3>
+          <p>Ponder</p>
+          <p>?????: {U}</p>
+          <p>???: Sorcery</p>
+          <a href="data/tdc_159.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/2xm_240.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Chrome Mox</p>
+          <p>?????: {0}</p>
+          <p>???: Artifact</p>
+          <a href="data/2xm_240.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_293.jpg" alt="Bayou">
+        <div class="card-info">
+          <h3>Bayou</h3>
+          <p>Bayou</p>
+          <p>?????: </p>
+          <p>???: Land ? Swamp Forest</p>
+          <a href="data/vma_293.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/dsc_113.jpg" alt="?????">
+        <div class="card-info">
+          <h3>?????</h3>
+          <p>Brainstorm</p>
+          <p>?????: {U}</p>
+          <p>???: Instant</p>
+          <a href="data/dsc_113.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/woe_82.jpg" alt="?????">
+        <div class="card-info">
+          <h3>?????</h3>
+          <p>Beseech the Mirror</p>
+          <p>?????: {1}{B}{B}{B}</p>
+          <p>???: Sorcery</p>
+          <a href="data/woe_82.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mh2_260.jpg" alt="???????">
+        <div class="card-info">
+          <h3>???????</h3>
+          <p>Verdant Catacombs</p>
+          <p>?????: </p>
+          <p>???: Land</p>
+          <a href="data/mh2_260.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_323.jpg" alt="Underground Sea">
+        <div class="card-info">
+          <h3>Underground Sea</h3>
+          <p>Underground Sea</p>
+          <p>?????: </p>
+          <p>???: Land ? Island Swamp</p>
+          <a href="data/vma_323.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mkm_270.jpg" alt="???????">
+        <div class="card-info">
+          <h3>???????</h3>
+          <p>Undercity Sewers</p>
+          <p>?????: </p>
+          <p>???: Land ? Island Swamp</p>
+          <a href="data/mkm_270.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mh2_250.jpg" alt="?????">
+        <div class="card-info">
+          <h3>?????</h3>
+          <p>Misty Rainforest</p>
+          <p>?????: </p>
+          <p>???: Land</p>
+          <a href="data/mh2_250.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/iko_41.jpg" alt="?">
+        <div class="card-info">
+          <h3>?</h3>
+          <p>Archipelagore</p>
+          <p>?????: {5}{U}{U}</p>
+          <p>???: Creature ? Leviathan</p>
+          <a href="data/iko_41.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_324.jpg" alt="Volcanic Island">
+        <div class="card-info">
+          <h3>Volcanic Island</h3>
+          <p>Volcanic Island</p>
+          <p>?????: </p>
+          <p>???: Land ? Island Mountain</p>
+          <a href="data/vma_324.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/usg_151.jpg" alt="????">
+        <div class="card-info">
+          <h3>????</h3>
+          <p>Rain of Filth</p>
+          <p>?????: {B}</p>
+          <p>???: Instant</p>
+          <a href="data/usg_151.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/vma_321.jpg" alt="Tropical Island">
+        <div class="card-info">
+          <h3>Tropical Island</h3>
+          <p>Tropical Island</p>
+          <p>?????: </p>
+          <p>???: Land ? Forest Island</p>
+          <a href="data/vma_321.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/neo_266.jpg" alt="??????????">
+        <div class="card-info">
+          <h3>??????????</h3>
+          <p>Boseiju, Who Endures</p>
+          <p>?????: </p>
+          <p>???: Legendary Land</p>
+          <a href="data/neo_266.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mh2_162.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Gaea's Will</p>
+          <p>?????: </p>
+          <p>???: Sorcery</p>
+          <a href="data/mh2_162.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/m20_198.jpg" alt="???">
+        <div class="card-info">
+          <h3>???</h3>
+          <p>Veil of Summer</p>
+          <p>?????: {G}</p>
+          <p>???: Instant</p>
+          <a href="data/m20_198.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/mh2_259.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Urza's Saga</p>
+          <p>?????: </p>
+          <p>???: Enchantment Land ? Urza's Saga</p>
+          <a href="data/mh2_259.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/tdm_51.jpg" alt="Marang River Regent">
+        <div class="card-info">
+          <h3>Marang River Regent</h3>
+          <p>Marang River Regent</p>
+          <p>?????: {4}{U}{U} // {3}{U}</p>
+          <p>???: Creature ? Dragon // Instant ? Omen</p>
+          <a href="data/tdm_51.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+      <div class="card">
+        <img src="images/cards/lci_258.jpg" alt="??????">
+        <div class="card-info">
+          <h3>??????</h3>
+          <p>Roaming Throne</p>
+          <p>?????: {4}</p>
+          <p>???: Artifact Creature ? Golem</p>
+          <a href="data/lci_258.json" target="_blank">JSON???</a>
+        </div>
+      </div>
+    
+  </div>
+  
+  <div class="footer">
+    <p>????: 2025/6/1 23:25:48</p>
+    <p>Powered by GitHub Pages</p>
+  </div>
+</body>
+</html>
+  
