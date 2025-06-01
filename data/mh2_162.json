@@ -1,0 +1,13 @@
+{
+  "id": "mh2_162",
+  "ja_name": "??????",
+  "en_name": "Gaea's Will",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_162.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_162_ja.jpg",
+  "mana_cost": "",
+  "colors": [
+    "G"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:25:31.806Z"
+}
