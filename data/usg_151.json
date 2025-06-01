@@ -1,6 +1,6 @@
 {
   "id": "usg_151",
-  "ja_name": "????",
+  "ja_name": "汚物の雨",
   "en_name": "Rain of Filth",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/usg_151.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/usg_151_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Instant",
-  "updated_at": "2025-06-01T14:25:23.589Z"
+  "updated_at": "2025-06-01T15:13:28.054Z",
+  "is_double_faced": false
 }
