@@ -1,0 +1,14 @@
+{
+  "id": "tdm_281",
+  "ja_name": "沼",
+  "en_name": "Swamp",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_281.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_281_ja.jpg",
+  "mana_cost": "",
+  "colors": [
+    ""
+  ],
+  "card_type": "Basic Land — Swamp",
+  "updated_at": "2025-06-01T15:12:33.130Z",
+  "is_double_faced": false
+}
