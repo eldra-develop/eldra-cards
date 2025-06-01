@@ -1,0 +1,13 @@
+{
+  "id": "dsc_113",
+  "ja_name": "?????",
+  "en_name": "Brainstorm",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/dsc_113.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/dsc_113_ja.jpg",
+  "mana_cost": "{U}",
+  "colors": [
+    "U"
+  ],
+  "card_type": "Instant",
+  "updated_at": "2025-06-01T14:24:58.871Z"
+}
