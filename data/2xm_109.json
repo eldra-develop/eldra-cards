@@ -1,0 +1,13 @@
+{
+  "id": "2xm_109",
+  "ja_name": "????",
+  "en_name": "Thoughtseize",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_109.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_109_ja.jpg",
+  "mana_cost": "{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:24:22.100Z"
+}
