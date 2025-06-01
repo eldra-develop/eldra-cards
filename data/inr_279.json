@@ -1,0 +1,14 @@
+{
+  "id": "inr_279",
+  "ja_name": "ハンウィアーの要塞",
+  "en_name": "Hanweir Battlements",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/inr_279.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/inr_279_ja.jpg",
+  "mana_cost": "",
+  "colors": [
+    ""
+  ],
+  "card_type": "Land",
+  "updated_at": "2025-06-01T15:13:51.890Z",
+  "is_double_faced": false
+}
