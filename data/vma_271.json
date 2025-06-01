@@ -1,0 +1,13 @@
+{
+  "id": "vma_271",
+  "ja_name": "?????????????",
+  "en_name": "Lion's Eye Diamond",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_271.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_271_ja.jpg",
+  "mana_cost": "{0}",
+  "colors": [
+    ""
+  ],
+  "card_type": "Artifact",
+  "updated_at": "2025-06-01T14:24:38.678Z"
+}
