@@ -1,0 +1,13 @@
+{
+  "id": "rvr_78",
+  "ja_name": "??????",
+  "en_name": "Infernal Tutor",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/rvr_78.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/rvr_78_ja.jpg",
+  "mana_cost": "{1}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:24:25.146Z"
+}
