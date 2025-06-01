@@ -1,6 +1,6 @@
 {
   "id": "rvr_78",
-  "ja_name": "??????",
+  "ja_name": "冥府の教示者",
   "en_name": "Infernal Tutor",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/rvr_78.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/rvr_78_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:24:25.146Z"
+  "updated_at": "2025-06-01T15:12:23.118Z",
+  "is_double_faced": false
 }
