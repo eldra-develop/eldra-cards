@@ -1,6 +1,6 @@
 {
   "id": "tdc_159",
-  "ja_name": "??",
+  "ja_name": "思案",
   "en_name": "Ponder",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_159.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_159_ja.jpg",
@@ -9,5 +9,6 @@
     "U"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:24:51.317Z"
+  "updated_at": "2025-06-01T15:12:52.785Z",
+  "is_double_faced": false
 }
