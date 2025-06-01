@@ -1,0 +1,13 @@
+{
+  "id": "a25_82",
+  "ja_name": "?????",
+  "en_name": "Dark Ritual",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/a25_82.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/a25_82_ja.jpg",
+  "mana_cost": "{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Instant",
+  "updated_at": "2025-06-01T14:24:31.761Z"
+}
