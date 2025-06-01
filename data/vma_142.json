@@ -1,6 +1,6 @@
 {
   "id": "vma_142",
-  "ja_name": "?????",
+  "ja_name": "苦悶の触手",
   "en_name": "Tendrils of Agony",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_142.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_142_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:24:19.035Z"
+  "updated_at": "2025-06-01T15:12:15.978Z",
+  "is_double_faced": false
 }
