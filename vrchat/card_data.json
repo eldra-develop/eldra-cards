@@ -1,0 +1,452 @@
+{
+  "version": "1.0",
+  "updated_at": "2025-06-01T15:14:03.515Z",
+  "total_cards": 34,
+  "cards": {
+    "cn2_152": {
+      "id": "cn2_152",
+      "name": "燃え立つ願い",
+      "name_en": "Burning Wish",
+      "img": "cn2_152.jpg",
+      "img_ja": "cn2_152_ja.jpg",
+      "mana": "1R",
+      "colors": [
+        "R"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "tpr_225": {
+      "id": "tpr_225",
+      "name": "水蓮の花びら",
+      "name_en": "Lotus Petal",
+      "img": "tpr_225.jpg",
+      "img_ja": "tpr_225_ja.jpg",
+      "mana": "0",
+      "colors": [
+        ""
+      ],
+      "type": "Artifact",
+      "is_double_faced": false
+    },
+    "mh3_224": {
+      "id": "mh3_224",
+      "name": "汚染された三角州",
+      "name_en": "Polluted Delta",
+      "img": "mh3_224.jpg",
+      "img_ja": "mh3_224_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "vma_142": {
+      "id": "vma_142",
+      "name": "苦悶の触手",
+      "name_en": "Tendrils of Agony",
+      "img": "vma_142.jpg",
+      "img_ja": "vma_142_ja.jpg",
+      "mana": "2BB",
+      "colors": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "2xm_109": {
+      "id": "2xm_109",
+      "name": "思考囲い",
+      "name_en": "Thoughtseize",
+      "img": "2xm_109.jpg",
+      "img_ja": "2xm_109_ja.jpg",
+      "mana": "B",
+      "colors": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "rvr_78": {
+      "id": "rvr_78",
+      "name": "冥府の教示者",
+      "name_en": "Infernal Tutor",
+      "img": "rvr_78.jpg",
+      "img_ja": "rvr_78_ja.jpg",
+      "mana": "1B",
+      "colors": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "vma_106": {
+      "id": "vma_106",
+      "name": "陰謀団の儀式",
+      "name_en": "Cabal Ritual",
+      "img": "vma_106.jpg",
+      "img_ja": "vma_106_ja.jpg",
+      "mana": "1B",
+      "colors": [
+        "B"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "a25_82": {
+      "id": "a25_82",
+      "name": "暗黒の儀式",
+      "name_en": "Dark Ritual",
+      "img": "a25_82.jpg",
+      "img_ja": "a25_82_ja.jpg",
+      "mana": "B",
+      "colors": [
+        "B"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "tdm_281": {
+      "id": "tdm_281",
+      "name": "沼",
+      "name_en": "Swamp",
+      "img": "tdm_281.jpg",
+      "img_ja": "tdm_281_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "vma_271": {
+      "id": "vma_271",
+      "name": "ライオンの瞳のダイアモンド",
+      "name_en": "Lion's Eye Diamond",
+      "img": "vma_271.jpg",
+      "img_ja": "vma_271_ja.jpg",
+      "mana": "0",
+      "colors": [
+        ""
+      ],
+      "type": "Artifact",
+      "is_double_faced": false
+    },
+    "fdn_606": {
+      "id": "fdn_606",
+      "name": "強迫",
+      "name_en": "Duress",
+      "img": "fdn_606.jpg",
+      "img_ja": "fdn_606_ja.jpg",
+      "mana": "B",
+      "colors": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "fdn_617": {
+      "id": "fdn_617",
+      "name": "願い爪のタリスマン",
+      "name_en": "Wishclaw Talisman",
+      "img": "fdn_617.jpg",
+      "img_ja": "fdn_617_ja.jpg",
+      "mana": "1B",
+      "colors": [
+        "B"
+      ],
+      "type": "Artifact",
+      "is_double_faced": false
+    },
+    "2xm_76": {
+      "id": "2xm_76",
+      "name": "むかつき",
+      "name_en": "Ad Nauseam",
+      "img": "2xm_76.jpg",
+      "img_ja": "2xm_76_ja.jpg",
+      "mana": "3BB",
+      "colors": [
+        "B"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "tdc_159": {
+      "id": "tdc_159",
+      "name": "思案",
+      "name_en": "Ponder",
+      "img": "tdc_159.jpg",
+      "img_ja": "tdc_159_ja.jpg",
+      "mana": "U",
+      "colors": [
+        "U"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "2xm_240": {
+      "id": "2xm_240",
+      "name": "金属モックス",
+      "name_en": "Chrome Mox",
+      "img": "2xm_240.jpg",
+      "img_ja": "2xm_240_ja.jpg",
+      "mana": "0",
+      "colors": [
+        ""
+      ],
+      "type": "Artifact",
+      "is_double_faced": false
+    },
+    "vma_293": {
+      "id": "vma_293",
+      "name": "Bayou",
+      "name_en": "Bayou",
+      "img": "vma_293.jpg",
+      "img_ja": "",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "dsc_113": {
+      "id": "dsc_113",
+      "name": "渦まく知識",
+      "name_en": "Brainstorm",
+      "img": "dsc_113.jpg",
+      "img_ja": "dsc_113_ja.jpg",
+      "mana": "U",
+      "colors": [
+        "U"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "woe_82": {
+      "id": "woe_82",
+      "name": "鏡に願いを",
+      "name_en": "Beseech the Mirror",
+      "img": "woe_82.jpg",
+      "img_ja": "woe_82_ja.jpg",
+      "mana": "1BBB",
+      "colors": [
+        "B"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "mh2_260": {
+      "id": "mh2_260",
+      "name": "新緑の地下墓地",
+      "name_en": "Verdant Catacombs",
+      "img": "mh2_260.jpg",
+      "img_ja": "mh2_260_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "vma_323": {
+      "id": "vma_323",
+      "name": "Underground Sea",
+      "name_en": "Underground Sea",
+      "img": "vma_323.jpg",
+      "img_ja": "",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "mkm_270": {
+      "id": "mkm_270",
+      "name": "地底街の下水道",
+      "name_en": "Undercity Sewers",
+      "img": "mkm_270.jpg",
+      "img_ja": "mkm_270_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "mh2_250": {
+      "id": "mh2_250",
+      "name": "霧深い雨林",
+      "name_en": "Misty Rainforest",
+      "img": "mh2_250.jpg",
+      "img_ja": "mh2_250_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "tdm_279": {
+      "id": "tdm_279",
+      "name": "島",
+      "name_en": "Island",
+      "img": "tdm_279.jpg",
+      "img_ja": "tdm_279_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "vma_324": {
+      "id": "vma_324",
+      "name": "Volcanic Island",
+      "name_en": "Volcanic Island",
+      "img": "vma_324.jpg",
+      "img_ja": "",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "usg_151": {
+      "id": "usg_151",
+      "name": "汚物の雨",
+      "name_en": "Rain of Filth",
+      "img": "usg_151.jpg",
+      "img_ja": "usg_151_ja.jpg",
+      "mana": "B",
+      "colors": [
+        "B"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "vma_321": {
+      "id": "vma_321",
+      "name": "Tropical Island",
+      "name_en": "Tropical Island",
+      "img": "vma_321.jpg",
+      "img_ja": "",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "neo_266": {
+      "id": "neo_266",
+      "name": "耐え抜くもの、母聖樹",
+      "name_en": "Boseiju, Who Endures",
+      "img": "neo_266.jpg",
+      "img_ja": "neo_266_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "mh2_162": {
+      "id": "mh2_162",
+      "name": "ガイアの意志",
+      "name_en": "Gaea's Will",
+      "img": "mh2_162.jpg",
+      "img_ja": "mh2_162_ja.jpg",
+      "mana": "",
+      "colors": [
+        "G"
+      ],
+      "type": "Sorcery",
+      "is_double_faced": false
+    },
+    "m20_198": {
+      "id": "m20_198",
+      "name": "夏の帳",
+      "name_en": "Veil of Summer",
+      "img": "m20_198.jpg",
+      "img_ja": "m20_198_ja.jpg",
+      "mana": "G",
+      "colors": [
+        "G"
+      ],
+      "type": "Instant",
+      "is_double_faced": false
+    },
+    "mh2_259": {
+      "id": "mh2_259",
+      "name": "ウルザの物語",
+      "name_en": "Urza's Saga",
+      "img": "mh2_259.jpg",
+      "img_ja": "mh2_259_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Enchantment",
+      "is_double_faced": false
+    },
+    "tdm_51": {
+      "id": "tdm_51",
+      "name": "Marang River Regent",
+      "name_en": "Marang River Regent",
+      "img": "tdm_51.jpg",
+      "img_ja": "",
+      "mana": "4UU  3U",
+      "colors": [
+        "U"
+      ],
+      "type": "Creature",
+      "is_double_faced": false
+    },
+    "lci_258": {
+      "id": "lci_258",
+      "name": "うろつく玉座",
+      "name_en": "Roaming Throne",
+      "img": "lci_258.jpg",
+      "img_ja": "lci_258_ja.jpg",
+      "mana": "4",
+      "colors": [
+        ""
+      ],
+      "type": "Creature",
+      "is_double_faced": false
+    },
+    "inr_279": {
+      "id": "inr_279",
+      "name": "ハンウィアーの要塞",
+      "name_en": "Hanweir Battlements",
+      "img": "inr_279.jpg",
+      "img_ja": "inr_279_ja.jpg",
+      "mana": "",
+      "colors": [
+        ""
+      ],
+      "type": "Land",
+      "is_double_faced": false
+    },
+    "mh3_247": {
+      "id": "mh3_247",
+      "name": "Ral, Monsoon Mage",
+      "name_en": "Ral, Monsoon Mage",
+      "img": "mh3_247.jpg",
+      "img_ja": "mh3_247_ja.jpg",
+      "mana": "1R",
+      "colors": [
+        ""
+      ],
+      "type": "Creature",
+      "is_double_faced": true,
+      "back_img": "mh3_247_back.jpg",
+      "back_img_ja": "mh3_247_ja_back.jpg"
+    }
+  },
+  "deleted_cards": []
+}
