@@ -1,108 +1,108 @@
 {
-  "total_cards": 32,
-  "updated_at": "2025-06-01T14:25:47.390Z",
+  "total_cards": 34,
+  "updated_at": "2025-06-01T15:14:01.449Z",
   "cards": {
     "cn2_152": {
       "id": "cn2_152",
-      "ja_name": "??????",
+      "ja_name": "燃え立つ願い",
       "en_name": "Burning Wish",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/cn2_152.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/cn2_152.json"
     },
     "tpr_225": {
       "id": "tpr_225",
-      "ja_name": "??????",
+      "ja_name": "水蓮の花びら",
       "en_name": "Lotus Petal",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tpr_225.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/tpr_225.json"
     },
     "mh3_224": {
       "id": "mh3_224",
-      "ja_name": "????????",
+      "ja_name": "汚染された三角州",
       "en_name": "Polluted Delta",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_224.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh3_224.json"
     },
     "vma_142": {
       "id": "vma_142",
-      "ja_name": "?????",
+      "ja_name": "苦悶の触手",
       "en_name": "Tendrils of Agony",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_142.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/vma_142.json"
     },
     "2xm_109": {
       "id": "2xm_109",
-      "ja_name": "????",
+      "ja_name": "思考囲い",
       "en_name": "Thoughtseize",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_109.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/2xm_109.json"
     },
     "rvr_78": {
       "id": "rvr_78",
-      "ja_name": "??????",
+      "ja_name": "冥府の教示者",
       "en_name": "Infernal Tutor",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/rvr_78.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/rvr_78.json"
     },
     "vma_106": {
       "id": "vma_106",
-      "ja_name": "??????",
+      "ja_name": "陰謀団の儀式",
       "en_name": "Cabal Ritual",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_106.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/vma_106.json"
     },
     "a25_82": {
       "id": "a25_82",
-      "ja_name": "?????",
+      "ja_name": "暗黒の儀式",
       "en_name": "Dark Ritual",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/a25_82.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/a25_82.json"
     },
-    "znr_91": {
-      "id": "znr_91",
-      "ja_name": "?",
-      "en_name": "Blackbloom Rogue // Blackbloom Bog",
-      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/znr_91.jpg",
-      "data_url": "https://eldra-develop.github.io/eldra-cards/data/znr_91.json"
+    "tdm_281": {
+      "id": "tdm_281",
+      "ja_name": "沼",
+      "en_name": "Swamp",
+      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_281.jpg",
+      "data_url": "https://eldra-develop.github.io/eldra-cards/data/tdm_281.json"
     },
     "vma_271": {
       "id": "vma_271",
-      "ja_name": "?????????????",
+      "ja_name": "ライオンの瞳のダイアモンド",
       "en_name": "Lion's Eye Diamond",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_271.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/vma_271.json"
     },
-    "tdc_147": {
-      "id": "tdc_147",
-      "ja_name": "??",
-      "en_name": "Compulsive Research",
-      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_147.jpg",
-      "data_url": "https://eldra-develop.github.io/eldra-cards/data/tdc_147.json"
+    "fdn_606": {
+      "id": "fdn_606",
+      "ja_name": "強迫",
+      "en_name": "Duress",
+      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_606.jpg",
+      "data_url": "https://eldra-develop.github.io/eldra-cards/data/fdn_606.json"
     },
     "fdn_617": {
       "id": "fdn_617",
-      "ja_name": "?????????",
+      "ja_name": "願い爪のタリスマン",
       "en_name": "Wishclaw Talisman",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_617.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/fdn_617.json"
     },
     "2xm_76": {
       "id": "2xm_76",
-      "ja_name": "????",
+      "ja_name": "むかつき",
       "en_name": "Ad Nauseam",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_76.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/2xm_76.json"
     },
     "tdc_159": {
       "id": "tdc_159",
-      "ja_name": "??",
+      "ja_name": "思案",
       "en_name": "Ponder",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdc_159.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/tdc_159.json"
     },
     "2xm_240": {
       "id": "2xm_240",
-      "ja_name": "??????",
+      "ja_name": "金属モックス",
       "en_name": "Chrome Mox",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_240.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/2xm_240.json"
@@ -116,21 +116,21 @@
     },
     "dsc_113": {
       "id": "dsc_113",
-      "ja_name": "?????",
+      "ja_name": "渦まく知識",
       "en_name": "Brainstorm",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/dsc_113.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/dsc_113.json"
     },
     "woe_82": {
       "id": "woe_82",
-      "ja_name": "?????",
+      "ja_name": "鏡に願いを",
       "en_name": "Beseech the Mirror",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/woe_82.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/woe_82.json"
     },
     "mh2_260": {
       "id": "mh2_260",
-      "ja_name": "???????",
+      "ja_name": "新緑の地下墓地",
       "en_name": "Verdant Catacombs",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_260.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh2_260.json"
@@ -144,24 +144,24 @@
     },
     "mkm_270": {
       "id": "mkm_270",
-      "ja_name": "???????",
+      "ja_name": "地底街の下水道",
       "en_name": "Undercity Sewers",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mkm_270.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mkm_270.json"
     },
     "mh2_250": {
       "id": "mh2_250",
-      "ja_name": "?????",
+      "ja_name": "霧深い雨林",
       "en_name": "Misty Rainforest",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_250.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh2_250.json"
     },
-    "iko_41": {
-      "id": "iko_41",
-      "ja_name": "?",
-      "en_name": "Archipelagore",
-      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/iko_41.jpg",
-      "data_url": "https://eldra-develop.github.io/eldra-cards/data/iko_41.json"
+    "tdm_279": {
+      "id": "tdm_279",
+      "ja_name": "島",
+      "en_name": "Island",
+      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_279.jpg",
+      "data_url": "https://eldra-develop.github.io/eldra-cards/data/tdm_279.json"
     },
     "vma_324": {
       "id": "vma_324",
@@ -172,7 +172,7 @@
     },
     "usg_151": {
       "id": "usg_151",
-      "ja_name": "????",
+      "ja_name": "汚物の雨",
       "en_name": "Rain of Filth",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/usg_151.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/usg_151.json"
@@ -186,28 +186,28 @@
     },
     "neo_266": {
       "id": "neo_266",
-      "ja_name": "??????????",
+      "ja_name": "耐え抜くもの、母聖樹",
       "en_name": "Boseiju, Who Endures",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/neo_266.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/neo_266.json"
     },
     "mh2_162": {
       "id": "mh2_162",
-      "ja_name": "??????",
+      "ja_name": "ガイアの意志",
       "en_name": "Gaea's Will",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_162.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh2_162.json"
     },
     "m20_198": {
       "id": "m20_198",
-      "ja_name": "???",
+      "ja_name": "夏の帳",
       "en_name": "Veil of Summer",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/m20_198.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/m20_198.json"
     },
     "mh2_259": {
       "id": "mh2_259",
-      "ja_name": "??????",
+      "ja_name": "ウルザの物語",
       "en_name": "Urza's Saga",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_259.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh2_259.json"
@@ -221,10 +221,24 @@
     },
     "lci_258": {
       "id": "lci_258",
-      "ja_name": "??????",
+      "ja_name": "うろつく玉座",
       "en_name": "Roaming Throne",
       "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/lci_258.jpg",
       "data_url": "https://eldra-develop.github.io/eldra-cards/data/lci_258.json"
+    },
+    "inr_279": {
+      "id": "inr_279",
+      "ja_name": "ハンウィアーの要塞",
+      "en_name": "Hanweir Battlements",
+      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/inr_279.jpg",
+      "data_url": "https://eldra-develop.github.io/eldra-cards/data/inr_279.json"
+    },
+    "mh3_247": {
+      "id": "mh3_247",
+      "ja_name": "Ral, Monsoon Mage",
+      "en_name": "Ral, Monsoon Mage",
+      "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_247.jpg",
+      "data_url": "https://eldra-develop.github.io/eldra-cards/data/mh3_247.json"
     }
   }
 }
