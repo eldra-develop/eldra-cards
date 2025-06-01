@@ -1,0 +1,13 @@
+{
+  "id": "woe_82",
+  "ja_name": "?????",
+  "en_name": "Beseech the Mirror",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/woe_82.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/woe_82_ja.jpg",
+  "mana_cost": "{1}{B}{B}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:25:02.063Z"
+}
