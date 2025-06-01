@@ -1,6 +1,6 @@
 {
   "id": "mkm_270",
-  "ja_name": "???????",
+  "ja_name": "地底街の下水道",
   "en_name": "Undercity Sewers",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mkm_270.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mkm_270_ja.jpg",
@@ -8,6 +8,7 @@
   "colors": [
     ""
   ],
-  "card_type": "Land ? Island Swamp",
-  "updated_at": "2025-06-01T14:25:11.301Z"
+  "card_type": "Land — Island Swamp",
+  "updated_at": "2025-06-01T15:13:15.778Z",
+  "is_double_faced": false
 }
