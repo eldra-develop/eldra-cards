@@ -1,0 +1,14 @@
+{
+  "id": "fdn_606",
+  "ja_name": "強迫",
+  "en_name": "Duress",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_606.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_606_ja.jpg",
+  "mana_cost": "{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T15:12:41.032Z",
+  "is_double_faced": false
+}
