@@ -1,0 +1,13 @@
+{
+  "id": "2xm_76",
+  "ja_name": "????",
+  "en_name": "Ad Nauseam",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_76.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_76_ja.jpg",
+  "mana_cost": "{3}{B}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Instant",
+  "updated_at": "2025-06-01T14:24:48.356Z"
+}
