@@ -1,0 +1,16 @@
+{
+  "id": "mh3_247",
+  "ja_name": "Ral, Monsoon Mage",
+  "en_name": "Ral, Monsoon Mage",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_247.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_247_ja.jpg",
+  "mana_cost": "{1}{R}",
+  "colors": [
+    ""
+  ],
+  "card_type": "Legendary Creature — Human Wizard // Legendary Planeswalker — Ral",
+  "updated_at": "2025-06-01T15:13:55.434Z",
+  "is_double_faced": true,
+  "back_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_247_back.jpg",
+  "ja_back_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh3_247_ja_back.jpg"
+}
