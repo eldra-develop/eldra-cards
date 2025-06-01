@@ -1,6 +1,6 @@
 {
   "id": "tpr_225",
-  "ja_name": "??????",
+  "ja_name": "水蓮の花びら",
   "en_name": "Lotus Petal",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tpr_225.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tpr_225_ja.jpg",
@@ -9,5 +9,6 @@
     ""
   ],
   "card_type": "Artifact",
-  "updated_at": "2025-06-01T14:24:12.588Z"
+  "updated_at": "2025-06-01T15:12:09.151Z",
+  "is_double_faced": false
 }
