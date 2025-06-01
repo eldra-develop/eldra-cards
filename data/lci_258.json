@@ -1,0 +1,13 @@
+{
+  "id": "lci_258",
+  "ja_name": "??????",
+  "en_name": "Roaming Throne",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/lci_258.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/lci_258_ja.jpg",
+  "mana_cost": "{4}",
+  "colors": [
+    ""
+  ],
+  "card_type": "Artifact Creature ? Golem",
+  "updated_at": "2025-06-01T14:25:43.780Z"
+}
