@@ -1,6 +1,6 @@
 {
   "id": "mh2_260",
-  "ja_name": "???????",
+  "ja_name": "新緑の地下墓地",
   "en_name": "Verdant Catacombs",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_260.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_260_ja.jpg",
@@ -9,5 +9,6 @@
     ""
   ],
   "card_type": "Land",
-  "updated_at": "2025-06-01T14:25:05.191Z"
+  "updated_at": "2025-06-01T15:13:09.664Z",
+  "is_double_faced": false
 }
