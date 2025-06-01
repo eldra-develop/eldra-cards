@@ -1,6 +1,6 @@
 {
   "id": "woe_82",
-  "ja_name": "?????",
+  "ja_name": "鏡に願いを",
   "en_name": "Beseech the Mirror",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/woe_82.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/woe_82_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:25:02.063Z"
+  "updated_at": "2025-06-01T15:13:05.870Z",
+  "is_double_faced": false
 }
