@@ -1,6 +1,6 @@
 {
   "id": "fdn_617",
-  "ja_name": "?????????",
+  "ja_name": "願い爪のタリスマン",
   "en_name": "Wishclaw Talisman",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_617.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/fdn_617_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Artifact",
-  "updated_at": "2025-06-01T14:24:45.056Z"
+  "updated_at": "2025-06-01T15:12:45.279Z",
+  "is_double_faced": false
 }
