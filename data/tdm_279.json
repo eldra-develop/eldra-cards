@@ -1,0 +1,14 @@
+{
+  "id": "tdm_279",
+  "ja_name": "島",
+  "en_name": "Island",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_279.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/tdm_279_ja.jpg",
+  "mana_cost": "",
+  "colors": [
+    ""
+  ],
+  "card_type": "Basic Land — Island",
+  "updated_at": "2025-06-01T15:13:21.845Z",
+  "is_double_faced": false
+}
