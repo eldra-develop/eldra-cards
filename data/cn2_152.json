@@ -1,6 +1,6 @@
 {
   "id": "cn2_152",
-  "ja_name": "??????",
+  "ja_name": "燃え立つ願い",
   "en_name": "Burning Wish",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/cn2_152.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/cn2_152_ja.jpg",
@@ -9,5 +9,6 @@
     "R"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:24:09.194Z"
+  "updated_at": "2025-06-01T15:12:05.368Z",
+  "is_double_faced": false
 }
