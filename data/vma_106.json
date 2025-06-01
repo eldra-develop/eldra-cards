@@ -1,0 +1,13 @@
+{
+  "id": "vma_106",
+  "ja_name": "??????",
+  "en_name": "Cabal Ritual",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_106.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/vma_106_ja.jpg",
+  "mana_cost": "{1}{B}",
+  "colors": [
+    "B"
+  ],
+  "card_type": "Instant",
+  "updated_at": "2025-06-01T14:24:28.317Z"
+}
