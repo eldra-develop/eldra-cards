@@ -1,6 +1,6 @@
 {
   "id": "mh2_250",
-  "ja_name": "?????",
+  "ja_name": "霧深い雨林",
   "en_name": "Misty Rainforest",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_250.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_250_ja.jpg",
@@ -9,5 +9,6 @@
     ""
   ],
   "card_type": "Land",
-  "updated_at": "2025-06-01T14:25:14.756Z"
+  "updated_at": "2025-06-01T15:13:18.824Z",
+  "is_double_faced": false
 }
