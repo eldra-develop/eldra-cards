@@ -1,6 +1,6 @@
 {
   "id": "2xm_240",
-  "ja_name": "??????",
+  "ja_name": "金属モックス",
   "en_name": "Chrome Mox",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_240.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_240_ja.jpg",
@@ -9,5 +9,6 @@
     ""
   ],
   "card_type": "Artifact",
-  "updated_at": "2025-06-01T14:24:54.120Z"
+  "updated_at": "2025-06-01T15:12:56.446Z",
+  "is_double_faced": false
 }
