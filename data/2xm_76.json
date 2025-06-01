@@ -1,6 +1,6 @@
 {
   "id": "2xm_76",
-  "ja_name": "????",
+  "ja_name": "むかつき",
   "en_name": "Ad Nauseam",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_76.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/2xm_76_ja.jpg",
@@ -9,5 +9,6 @@
     "B"
   ],
   "card_type": "Instant",
-  "updated_at": "2025-06-01T14:24:48.356Z"
+  "updated_at": "2025-06-01T15:12:49.262Z",
+  "is_double_faced": false
 }
