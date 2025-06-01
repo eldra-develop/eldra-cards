@@ -1,0 +1,13 @@
+{
+  "id": "cn2_152",
+  "ja_name": "??????",
+  "en_name": "Burning Wish",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/cn2_152.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/cn2_152_ja.jpg",
+  "mana_cost": "{1}{R}",
+  "colors": [
+    "R"
+  ],
+  "card_type": "Sorcery",
+  "updated_at": "2025-06-01T14:24:09.194Z"
+}
