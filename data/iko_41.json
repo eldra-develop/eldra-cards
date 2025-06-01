@@ -1,0 +1,13 @@
+{
+  "id": "iko_41",
+  "ja_name": "?",
+  "en_name": "Archipelagore",
+  "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/iko_41.jpg",
+  "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/iko_41_ja.jpg",
+  "mana_cost": "{5}{U}{U}",
+  "colors": [
+    "U"
+  ],
+  "card_type": "Creature ? Leviathan",
+  "updated_at": "2025-06-01T14:25:18.178Z"
+}
