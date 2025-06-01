@@ -1,6 +1,6 @@
 {
   "id": "mh2_162",
-  "ja_name": "??????",
+  "ja_name": "ガイアの意志",
   "en_name": "Gaea's Will",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_162.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/mh2_162_ja.jpg",
@@ -9,5 +9,6 @@
     "G"
   ],
   "card_type": "Sorcery",
-  "updated_at": "2025-06-01T14:25:31.806Z"
+  "updated_at": "2025-06-01T15:13:36.889Z",
+  "is_double_faced": false
 }
