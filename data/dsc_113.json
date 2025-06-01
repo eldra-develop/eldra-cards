@@ -1,6 +1,6 @@
 {
   "id": "dsc_113",
-  "ja_name": "?????",
+  "ja_name": "渦まく知識",
   "en_name": "Brainstorm",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/dsc_113.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/dsc_113_ja.jpg",
@@ -9,5 +9,6 @@
     "U"
   ],
   "card_type": "Instant",
-  "updated_at": "2025-06-01T14:24:58.871Z"
+  "updated_at": "2025-06-01T15:13:02.255Z",
+  "is_double_faced": false
 }
