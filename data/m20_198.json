@@ -1,6 +1,6 @@
 {
   "id": "m20_198",
-  "ja_name": "???",
+  "ja_name": "夏の帳",
   "en_name": "Veil of Summer",
   "image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/m20_198.jpg",
   "ja_image_url": "https://eldra-develop.github.io/eldra-cards/images/cards/m20_198_ja.jpg",
@@ -9,5 +9,6 @@
     "G"
   ],
   "card_type": "Instant",
-  "updated_at": "2025-06-01T14:25:35.062Z"
+  "updated_at": "2025-06-01T15:13:40.462Z",
+  "is_double_faced": false
 }
